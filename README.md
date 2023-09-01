@@ -5,5 +5,7 @@ This project demonstrates the main features of the User Interface, such as:
 - Navigation
 - Responsiveness
 - DynamicLinks
-- Scaling 
+- Scaling
+- Sylesheets
+
 and more
